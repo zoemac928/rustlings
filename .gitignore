@@ -21,3 +21,5 @@ public/
 
 # Ignore file for editors like Helix
 .ignore
+
+launch.json
